@@ -1,0 +1,5 @@
+{
+  "name": "中国天气预报 (China Weather Forecast)",
+  "description": "一个使用 Gemini API Function Calling 功能来查询中国城市天气预报的现代化Web应用。应用界面美观，响应式设计，提供当前天气状况和未来一周的预报。",
+  "requestFramePermissions": []
+}
